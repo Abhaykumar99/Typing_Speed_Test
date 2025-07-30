@@ -8,7 +8,6 @@ import random
 BASE_DIR   = os.path.dirname(os.path.abspath(__file__))
 SCORE_FILE = os.path.join(BASE_DIR, "highscores.json")
 
-
 # ── Colors ──────────────────────────────────────────────────────────────────
 BG      = "#1e1e2e"
 CARD    = "#2a2a3e"
